@@ -6,7 +6,7 @@ tags: [test, template]
 ---
 # Post Template
 This is a template for posts. Copy this file and rename it to create a new post.
-```
+
 
 ## License
 None
