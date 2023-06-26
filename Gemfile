@@ -7,6 +7,7 @@ gem "jekyll-theme-chirpy", "~> 6.0", ">= 6.0.1"
 group :test do
   gem "html-proofer", "~> 3.18"
 end
+#gem 'google-protobuf', git: 'https://github.com/protocolbuffers/protobuf',  branch: 'main'
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
